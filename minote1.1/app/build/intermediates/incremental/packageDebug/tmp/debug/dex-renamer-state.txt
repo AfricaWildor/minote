@@ -1,0 +1,4 @@
+#Thu May 26 15:07:54 CST 2022
+base.0=C\:\\Users\\17287\\Desktop\\minote-master\\minote\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
